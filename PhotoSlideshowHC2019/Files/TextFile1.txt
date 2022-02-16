@@ -1,0 +1,7 @@
+﻿6
+H 6 A B C Z X Y
+V 6 A B C D E F
+V 2 F G
+H 2 F H
+H 1 AS
+H 2 AS B
